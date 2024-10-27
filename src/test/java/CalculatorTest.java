@@ -2,7 +2,6 @@
 
 import ec.edu.epn.git.calculator.Calculator;
 import org.junit.Test;
-import org.junit.jupiter.api.BeforeEach;
 
 import static org.junit.Assert.assertThrows;
 import static org.junit.jupiter.api.Assertions.assertEquals;
